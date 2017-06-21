@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/nettawang/SimpleToDo' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/nettawang/SimpleToDo/blob/master/simpletodoappvideo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Video created with QuickTime.
 
